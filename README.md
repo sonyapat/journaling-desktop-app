@@ -8,8 +8,6 @@ It features secure user authentication and persistent storage, ensuring entries 
 ## 🎥 Demo
 ![App Demo](assets/demo.gif)
 
-[Watch the full demo on YouTube](https://youtu.be/your-demo-link)
-
 ## ✨ Features
 - User authentication
 - Secure password storage
