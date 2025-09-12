@@ -11,6 +11,7 @@ A secure personal-reflection journal built in Java that helps the user capture p
 
 ## 🎥 Demo
 ![App Demo](assets/demo.gif)
+[Watch the full demo on YouTube](https://youtu.be/your-demo-link)
 
 ## 🛠️ Tech Stack
 
