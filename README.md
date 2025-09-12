@@ -25,6 +25,5 @@ It features secure user authentication and persistent storage, ensuring entries 
 
 ## 🔮 Future Improvements
 - Support for multiple user accounts
-- Editing, searching, and filtering reflections
-- Storing entries with date and time
+- Searching for entries
 - Exporting and importing reflections for backup
