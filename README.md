@@ -1,6 +1,6 @@
 # journaling-desktop-app
 This personal project built in Java is a journal to track private thoughts and reflect on growth. 
-It features secure user authentication and persistent storage, and is designed to be accessible only locally on the developer’s machine, ensuring entries remain private and fully under the developer's control.
+It features secure user authentication and persistent storage, and is designed to be accessible only locally on the developer’s machine, ensuring entries remain private and stored safely.
 ---
 
 ## ✨ Features
