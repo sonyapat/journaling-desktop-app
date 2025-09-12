@@ -5,8 +5,8 @@ It features secure user authentication and persistent storage, and is designed t
 
 ## ✨ Features
 - User authentication (log in screen)  
-- Secure password storage (hashed with [bcrypt])  
-- Persistent storage of reflections using [SQLite]  
+- Secure password storage (hashed with bcrypt)  
+- Persistent storage of reflections using SQLite
 - Easy-to-use GUI interface using JavaFX
 
 ## 🎥 Demo
