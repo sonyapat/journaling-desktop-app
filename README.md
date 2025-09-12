@@ -9,7 +9,29 @@ A secure personal-reflection journal built in Java that helps the user capture p
 - Encrypted entries to ensure privacy  
 - Simple command-line interface (CLI) [or GUI if using JavaFX]  
 
+## 🎥 Demo
+![App Demo](assets/demo.gif)
+
 ---
+🛠️ Tech Stack
+
+Language: Java
+
+Persistence: SQLite (via JDBC)
+
+Security: bcrypt for password hashing, AES for entry encryption
+
+Build Tool: Maven / Gradle
+
+🔮 Future Improvements
+
+Cloud synchronization
+
+Tagging and searching reflections
+
+UI with JavaFX
+
+Export/import reflections
 
 ## 🚀 Getting Started
 
