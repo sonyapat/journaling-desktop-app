@@ -12,7 +12,6 @@ A secure personal-reflection journal built in Java that helps the user capture p
 ## 🎥 Demo
 ![App Demo](assets/demo.gif)
 
----
 ## 🛠️ Tech Stack
 
 Language: Java
@@ -22,6 +21,8 @@ Persistence: SQLite (via JDBC)
 Security: bcrypt for password hashing, AES for entry encryption
 
 Build Tool: Maven / Gradle
+
+---
 
 ## 🔮 Future Improvements
 
