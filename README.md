@@ -2,7 +2,7 @@
 
 This personal journal built in Java is used to track private thoughts and reflect on growth.   
 It features secure user authentication and persistent storage, ensuring entries remain private and stored safely.  
-The application is designed to run locally on the developer’s machine.  
+(Application is designed to run locally on the developer’s machine) 
 ---
 
 ## 🎥 Demo
