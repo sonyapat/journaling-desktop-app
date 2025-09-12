@@ -1,15 +1,13 @@
 # journaling-desktop-app
 This personal project built in Java is a journal to track private thoughts and reflect on growth. 
-
 It features secure user authentication and persistent storage, and is designed to be accessible only locally on the developer’s machine, ensuring entries remain private and stored safely.
 ---
 
 ## ✨ Features
-- User authentication (sign up / log in)  
-- Secure password storage (hashed with [bcrypt/other])  
-- Persistent storage of reflections using [SQLite/H2/etc.]  
-- Encrypted entries to ensure privacy  
-- Simple command-line interface (CLI) [or GUI if using JavaFX]  
+- User authentication (log in screen)  
+- Secure password storage (hashed with [bcrypt])  
+- Persistent storage of reflections using [SQLite]  
+- Well-designed GUI interface if using JavaFX
 
 ## 🎥 Demo
 ![App Demo](assets/demo.gif)
