@@ -20,18 +20,12 @@ Language: Java
 
 Persistence: SQLite (via JDBC)
 
-Security: bcrypt for password hashing, AES for entry encryption
-
-Build Tool: Maven / Gradle
+Security: bcrypt for password hashing
 
 ---
 
 ## 🔮 Future Improvements
-
-Cloud synchronization
-
-Tagging and searching reflections
-
-UI with JavaFX
-
-Export/import reflections
+- Support for multiple user accounts
+- Tagging, searching, and filtering reflections
+- Enhanced user interface with JavaFX
+- Exporting and importing reflections for backup
