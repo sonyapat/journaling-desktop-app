@@ -15,9 +15,11 @@ It features secure user authentication and persistent storage, and is designed t
 - Easy-to-use GUI interface
 
 ## 🛠️ Tech Stack
-Language: Java
-Persistence: SQLite (via JDBC)
-Security: bcrypt for password hashing
+**Language:** Java
+
+**Persistence:** SQLite (via JDBC)
+
+**Security:** bcrypt for password hashing
 
 ---
 
