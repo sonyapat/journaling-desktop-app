@@ -13,7 +13,7 @@ A secure personal-reflection journal built in Java that helps the user capture p
 ![App Demo](assets/demo.gif)
 
 ---
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Language: Java
 
@@ -23,7 +23,7 @@ Security: bcrypt for password hashing, AES for entry encryption
 
 Build Tool: Maven / Gradle
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Cloud synchronization
 
