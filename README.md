@@ -3,25 +3,22 @@ This personal journal built in Java is used to track private thoughts and reflec
 It features secure user authentication and persistent storage, and is designed to be accessible only locally on the developer’s machine, ensuring entries remain private and stored safely.
 ---
 
-## ✨ Features
-- User authentication (log in screen)  
-- Secure password storage (hashed with bcrypt)  
-- Persistent storage of reflections using SQLite
-- Easy-to-use GUI interface using JavaFX
-
 ## 🎥 Demo
 ![App Demo](assets/demo.gif)
 
 [Watch the full demo on YouTube](https://youtu.be/your-demo-link)
 
+## ✨ Features
+- User authentication
+- Secure password storage
+- Persistent storage of reflections
+- Easy-to-use GUI interface
+
 ## 🛠️ Tech Stack
 
 Language: Java
-
 Persistence: SQLite (via JDBC)
-
 Security: bcrypt for password hashing
-
 ---
 
 ## 🔮 Future Improvements
