@@ -27,6 +27,6 @@ It features secure user authentication and persistent storage, ensuring entries 
 
 ## 🔮 Future Improvements
 - Support for multiple user accounts
-- Tagging, searching, and filtering reflections
-- Enhanced user interface with JavaFX
+- Editing, searching, and filtering reflections
+- Storing entries with date and time
 - Exporting and importing reflections for backup
