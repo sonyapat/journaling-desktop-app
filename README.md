@@ -21,7 +21,7 @@ A Java desktop journal with user authentication and persistent storage.
 
 ## 🔮 Future Improvements
 - Support for multiple user accounts
-- Searching for entries
+- Searching for entries by keyword
 
 
 Note: App is designed to run locally on the developer’s machine.
