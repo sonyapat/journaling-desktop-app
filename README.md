@@ -1,4 +1,6 @@
 # Journaling Desktop App
+A Java desktop journal with user authentication and safe storage of entries.
+---
 ## 🎥 Demo
 ![App Demo](journaldemo.gif)
 
