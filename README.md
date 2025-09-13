@@ -6,7 +6,7 @@ It features secure user authentication and persistent storage, ensuring entries 
 ---
 
 ## 🎥 Demo
-![App Demo](journaldemo.gif.gif)
+![App Demo](journaldemo.gif)
 
 ## ✨ Features
 - User authentication
