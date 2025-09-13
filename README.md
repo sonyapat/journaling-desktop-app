@@ -1,6 +1,6 @@
 # Journaling Desktop App
 
-A personal journaling application built in Java that features user authentication and safe storage of entries.
+A Java desktop journal that features user authentication and safe storage of entries.
 ---
 
 ## 🎥 Demo
@@ -13,6 +13,8 @@ A personal journaling application built in Java that features user authenticatio
 
 ## 🛠️ Tech Stack
 **Language:** Java
+
+**GUI Framework:** JavaFX
 
 **Persistence:** SQLite (via JDBC)
 
