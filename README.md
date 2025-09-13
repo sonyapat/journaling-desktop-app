@@ -1,6 +1,6 @@
 # journaling-desktop-app
 
-This desktop journal built in Java is used to track private thoughts and reflect on growth.
+This journal built in Java is used to track private thoughts and reflect on growth.
 ---
 
 ## 🎥 Demo
