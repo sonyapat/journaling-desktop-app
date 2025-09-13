@@ -21,8 +21,6 @@ It features secure user authentication and persistent storage, ensuring entries 
 
 **Security:** bcrypt for password hashing
 
----
-
 ## 🔮 Future Improvements
 - Support for multiple user accounts
 - Searching for entries
