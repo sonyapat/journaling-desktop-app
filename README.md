@@ -1,6 +1,6 @@
 # Journaling Desktop App
 
-A personal journaling application built in Java with SQL-based persistent storage of entries and bcrypt-hashed passwords.
+A personal journaling application built in Java that features user authentication and safe storage of entries.
 ---
 
 ## 🎥 Demo
