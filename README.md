@@ -6,11 +6,6 @@ A Java desktop journal that features user authentication and safe storage of ent
 ## 🎥 Demo
 ![App Demo](journaldemo.gif)
 
-## ✨ Features
-- User authentication
-- Persistent storage of reflections
-- Easy-to-use GUI interface
-
 ## 🛠️ Tech Stack
 **Language:** Java
 
@@ -19,6 +14,11 @@ A Java desktop journal that features user authentication and safe storage of ent
 **Persistence:** SQLite (via JDBC)
 
 **Security:** bcrypt for password hashing
+
+## ✨ Features
+- User authentication
+- Persistent storage of reflections
+- Easy-to-use GUI interface
 
 ## 🔮 Future Improvements
 - Support for multiple user accounts
