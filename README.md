@@ -1,6 +1,6 @@
-# journaling-desktop-app
+# Journaling Desktop App
 
-This journal built in Java is used to track private thoughts and reflect on growth.
+A personal journaling application built in Java with SQL-based persistent storage. Features include user authentication, encrypted password storage, and secure management of journal entries.
 ---
 
 ## 🎥 Demo
