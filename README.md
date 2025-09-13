@@ -8,7 +8,6 @@ A personal journaling application built in Java with SQL-based persistent storag
 
 ## ✨ Features
 - User authentication
-- Secure password storage
 - Persistent storage of reflections
 - Easy-to-use GUI interface
 
