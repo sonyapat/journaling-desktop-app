@@ -23,4 +23,5 @@ A personal journaling application built in Java with SQL-based persistent storag
 - Searching for entries
 - Exporting and importing reflections for backup
 
+
 Note: App is designed to run locally on the developer’s machine.
