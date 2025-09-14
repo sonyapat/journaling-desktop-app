@@ -6,7 +6,7 @@ Java desktop journal with user authentication and persistent storage
 ![App Demo](journaldemo.gif)
 
 ## 🛠️ Tech Stack
-**Language:** Java
+**Language:** Java 
 
 **GUI Framework:** JavaFX
 
